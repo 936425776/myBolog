@@ -1,7 +1,7 @@
 ---
 home: true
 heroText: 三月的风的博客
-tagline: 永远相亲最美好的事情即将发生
+tagline: 永远相信最美好的事情即将发生
 # heroImage: /hero.png
 # heroImageStyle: {
 #   maxWidth: '600px',
